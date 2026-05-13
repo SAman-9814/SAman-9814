@@ -39,8 +39,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SAman-9814&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
+
+[![Agency.Ai](https://github-readme-stats.vercel.app/api/pin/?username=SAman-9814&repo=Agency.Ai&theme=dark&hide_border=false)](https://github.com/SAman-9814/Agency.Ai)
+[![Discord_Clone](https://github-readme-stats.vercel.app/api/pin/?username=SAman-9814&repo=Discord_Clone&theme=dark&hide_border=false)](https://github.com/SAman-9814/Discord_Clone)
+[![Github_Profile_Clone](https://github-readme-stats.vercel.app/api/pin/?username=SAman-9814&repo=Github_Profile_Clone&theme=dark&hide_border=false)](https://github.com/SAman-9814/Github_Profile_Clone)
+[![LeetCode-Profile](https://github-readme-stats.vercel.app/api/pin/?username=SAman-9814&repo=LeetCode-Profile&theme=dark&hide_border=false)](https://github.com/SAman-9814/LeetCode-Profile)
+[![React-Paste-App](https://github-readme-stats.vercel.app/api/pin/?username=SAman-9814&repo=React-Paste-App&theme=dark&hide_border=false)](https://github.com/SAman-9814/React-Paste-App)
+[![Weather-App](https://github-readme-stats.vercel.app/api/pin/?username=SAman-9814&repo=Weather-App&theme=dark&hide_border=false)](https://github.com/SAman-9814/Weather-App)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SAman-9814&icon=0&color=0)](https://visitcount.itsvg.in)
