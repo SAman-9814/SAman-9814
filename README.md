@@ -52,7 +52,7 @@
 <tr>
 <td width="60%">
 
-Full Stack & AI Engineer with **1+ year of professional experience** at SolutionPath Technology, delivering production-grade MERN/PERN applications and AI-powered automation systems. Focused on building scalable, maintainable software with clean architecture patterns and modern tooling.
+Full Stack &amp; AI Engineer with **1+ year of professional experience** at SolutionPath Technology, delivering production-grade MERN/PERN applications and AI-powered automation systems. Focused on building scalable, maintainable software with clean architecture patterns and modern tooling.
 
 Currently building a multi-vendor e-commerce platform with **LLM-powered recommendations** and real-time vendor analytics dashboards using Next.js and PERN stack. Independently shipped **5+ production projects** spanning EdTech platforms, RBAC authentication portals, media asset managers, and WhatsApp AI booking agents.
 
@@ -67,7 +67,7 @@ Deeply invested in the intersection of **software engineering and artificial int
 ✦  Full Stack Engineering Roles
 ✦  AI / ML Product Engineering
 ✦  Backend / API Architecture
-✦  Remote & Hybrid Opportunities
+✦  Remote &amp; Hybrid Opportunities
 ✦  Open Source Collaboration
 ```
 
@@ -90,12 +90,12 @@ Deeply invested in the intersection of **software engineering and artificial int
 </p>
 
 <p align="center">
-  <strong>Backend & Databases</strong><br/><br/>
+  <strong>Backend &amp; Databases</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,prisma,redis&theme=dark" />
 </p>
 
 <p align="center">
-  <strong>Cloud, DevOps & Tooling</strong><br/><br/>
+  <strong>Cloud, DevOps &amp; Tooling</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=docker,vercel,render,git,github,vscode,postman&theme=dark" />
 </p>
 
