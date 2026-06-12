@@ -1,116 +1,85 @@
-![header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,19,24,25,30&amp;height=200&amp;section=header&amp;text=Aman%20Sah&amp;fontSize=72&amp;fontAlign=50&amp;fontAlignY=38&amp;fontColor=ffffff&amp;animation=fadeIn)
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;lines=Full+Stack+%26+AI+Engineer+%7C+MERN+%2F+PERN;Building+AI-Powered+Products+%40+SolutionPath;LLM+Integration+%7C+Workflow+Automation+%7C+n8n;Shipped+5%2B+Production+Projects+%E2%80%94+Always+Building" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aman%20Sah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-Jain%20University-7C3AED?style=flat-square&amp;logo=graduation-cap&amp;logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.0%20%2F%2010.0-6D28D9?style=flat-square&amp;logo=academia&amp;logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-5B21B6?style=flat-square&amp;logo=briefcase&amp;logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kathmandu%2C%20Nepal-4338CA?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://amansah.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-amansah.com.np-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/aman-sah9814" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-aman--sah9814-6D28D9?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:sah99017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sah99017%40gmail.com-5B21B6?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SAman-9814" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-SAman--9814-4338CA?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+production-grade+MERN+%26+PERN+applications;Integrating+LLMs+%26+AI+agents+into+real+products;Shipping+full-stack+apps+from+zero+to+live;Automating+workflows+with+n8n+%26+OpenAI)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAman-9814&amp;style=flat-square&amp;color=7C3AED&amp;label=Profile+Views" />
-  &nbsp;
-  <a href="https://github.com/SAman-9814?tab=followers" target="_blank"><img src="https://img.shields.io/badge/Followers-Follow-6D28D9?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/SAman-9814?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Stars-View%20Repos-5B21B6?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-</p>
+<br/>
+
+![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-Jain%20University-7C3AED?style=flat-square&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.0%20%2F%2010.0-6D28D9?style=flat-square&logo=star&logoColor=white)
+![SolutionPath](https://img.shields.io/badge/SolutionPath%20Technology-Jan%202025%E2%80%93Present-4C1D95?style=flat-square&logo=briefcase&logoColor=white)
+
+<br/>
+
+![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Kathmandu-Nepal-8B5CF6?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat-square)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-amansah.com.np-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://amansah.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--sah9814-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sah9814)
+[![Email](https://img.shields.io/badge/Email-sah99017%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sah99017@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SAman--9814-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAman-9814)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SAman-9814&style=flat-square&color=7C3AED&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/SAman-9814?style=flat-square&color=6D28D9&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/SAman-9814?style=flat-square&color=4C1D95&label=Total+Stars&logo=github)
+
+</div>
 
 ---
 
 ## About
 
-<table>
-<tr>
-<td width="60%">
+I'm a **Full Stack & AI Engineer** based in Kathmandu, Nepal, with 1+ year of professional experience building production-grade web applications and AI-integrated products. At **SolutionPath Technology**, I architect and ship MERN/PERN-stack systems — most notably a multi-vendor e-commerce platform with LLM-powered recommendations. Beyond my day job, I independently conceptualize, engineer, and deploy full-stack products, from ed-tech platforms and RBAC portals to WhatsApp AI agents — each one a deliberate exercise in solving a real problem end-to-end.
 
-Full Stack &amp; AI Engineer with **1+ year of professional experience** at SolutionPath Technology, delivering production-grade MERN/PERN applications and AI-powered automation systems. Focused on building scalable, maintainable software with clean architecture patterns and modern tooling.
-
-Currently building a multi-vendor e-commerce platform with **LLM-powered recommendations** and real-time vendor analytics dashboards using Next.js and PERN stack. Independently shipped **5+ production projects** spanning EdTech platforms, RBAC authentication portals, media asset managers, and WhatsApp AI booking agents.
-
-Deeply invested in the intersection of **software engineering and artificial intelligence** — designing conversational agents, integrating OpenAI/Gemini APIs, and automating complex workflows with n8n.
-
-</td>
-<td width="40%" align="center">
+My engineering philosophy sits at the intersection of **pragmatic product thinking** and **systems-level correctness**: I care about clean architecture, secure auth patterns, efficient pipelines, and code that ships without apology. I'm deeply invested in the AI/automation layer — building agents and workflows that reduce friction, not just demos that look interesting.
 
 **Open To**
-
-```
-  Full Stack Engineering Roles
-  AI / ML Product Engineering
-  Backend / API Architecture
-  Remote and Hybrid Opportunities
-  Open Source Collaboration
-```
-
-</td>
-</tr>
-</table>
+- Full Stack Engineer roles (remote / hybrid / Kathmandu-based)
+- AI Engineer or Automation Engineer positions
+- Contract or freelance project engagements
+- Open source collaborations on meaningful tooling
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Frontend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,framer&amp;theme=dark" />
-</p>
+### Languages
+[![Skills](https://skillicons.dev/icons?i=js,ts,python&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <strong>Backend and Databases</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,prisma,redis&amp;theme=dark" />
-</p>
+### Frontend
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,framer&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <strong>Cloud, DevOps and Tooling</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,render,git,github,vscode,postman&amp;theme=dark" />
-</p>
+### Backend & Databases
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,redis&theme=dark)](https://skillicons.dev)
+
+### Cloud, DevOps & Tooling
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,render,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## AI / ML Expertise
+## AI & ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
-|--------|------------|---------|
-| **LLM Integration** | Advanced | OpenAI API, Gemini AI, prompt engineering, response parsing |
-| **Conversational AI Agents** | Advanced | WhatsApp Business API, multi-step dialogue flows, n8n orchestration |
-| **Workflow Automation** | Proficient | n8n visual workflows, webhook design, cron-triggered pipelines |
-| **AI-Powered Recommendations** | Proficient | LLM-based product ranking, embedding search, context injection |
-| **AI Chatbot Development** | Proficient | RAG patterns, session context, ARIA assistant design |
-| **API Orchestration** | Advanced | Multi-service chaining, async handling, rate-limit management |
+|--------|-------------|---------|
+| **LLM Integration** | ████████░░ Advanced | OpenAI API, Gemini AI — embedded in production apps |
+| **AI Agent Development** | ███████░░░ Proficient | WhatsApp booking agent with multi-step n8n orchestration |
+| **Workflow Automation** | ████████░░ Advanced | n8n pipelines: NLP → slot check → confirm → remind |
+| **RAG & Chatbot Systems** | ██████░░░░ Intermediate | ARIA chatbot with Gemini AI, context-aware responses |
+| **Prompt Engineering** | ███████░░░ Proficient | Structured prompts for tool-calling and classification |
+| **API-First AI Products** | ████████░░ Advanced | Factory AI, OpenAI, Gemini integrated across 3+ projects |
 
 </div>
 
@@ -119,113 +88,112 @@ Deeply invested in the intersection of **software engineering and artificial int
 ## Featured Projects
 
 <details>
-<summary><strong>Full-Stack AI Multi-Vendor E-Commerce App</strong> — Production · SolutionPath Technology</summary>
+<summary><strong>🎓 StudyNotion — Full-Stack EdTech Platform</strong></summary>
+
 <br/>
 
-An enterprise-grade multi-vendor marketplace with AI-powered product recommendations, independent vendor management, and real-time analytics dashboards.
+A production-grade MERN stack ed-tech platform where students can browse, purchase, and consume courses, and instructors can create, manage, and monetize their content — end to end.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Next.js · PERN (PostgreSQL · Express.js · React · Node.js) · Prisma ORM |
-| **AI Layer** | LLM API integration for contextual product recommendations |
-| **Scale** | Multi-vendor architecture with isolated dashboards and pipelines |
-| **Performance** | Real-time analytics with dynamic chart visualizations |
-| **Security** | Role-based vendor isolation, protected order management pipelines |
-| **Impact** | ~35% simulated increase in user engagement during internal testing |
-
-Architected and delivered the complete platform from schema design to deployment — including multi-vendor onboarding flows, product listing management, order lifecycle pipelines, and an AI recommendation layer that injects LLM context into product ranking.
-
-</details>
-
----
-
-<details>
-<summary><strong>StudyNotion — Full-Stack EdTech Platform</strong></summary>
-<br/>
-
-A fully operational MERN stack education platform where students purchase and consume courses, and instructors manage their own content and pricing.
-
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | React.js · Node.js · Express.js · MongoDB · Cloudinary · Razorpay · JWT · Redux · Tailwind CSS |
-| **Auth** | JWT plus OTP verification · bcrypt · Role-based access (Student / Instructor / Admin) |
-| **Payments** | Razorpay gateway integration for course checkout and enrolment |
-| **Media** | Cloudinary for cloud-based video, image, and document management |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | ReactJS, Node.js, Express.js, MongoDB, Cloudinary, Razorpay, JWT, Redux, Tailwind CSS |
+| **Scale** | Multi-role: Student, Instructor, Admin with fully isolated dashboards |
+| **Security** | JWT auth with OTP verification, bcrypt password hashing, role-based route guards |
+| **Payments** | Razorpay gateway integration for course checkout and enrollment |
+| **Media** | Cloudinary for video, image, and document asset management |
 | **Repository** | [github.com/SAman-9814/FULL-STACK-PROJECT-STUDY-NOTION](https://github.com/SAman-9814/FULL-STACK-PROJECT-STUDY-NOTION) |
 
+Built a comprehensive content delivery ecosystem: course creation flows for instructors, a Redux-managed student dashboard, JWT-protected REST APIs, and full payment-to-enrollment lifecycle. Cloudinary handles all media ingestion, keeping the application server stateless and deployable.
+
 </details>
 
 ---
 
 <details>
-<summary><strong>MERN Stack Personal Portfolio and Admin Console</strong></summary>
+<summary><strong>🌐 MERN Stack Personal Portfolio & Admin Console</strong></summary>
+
 <br/>
 
-A production-deployed full-stack portfolio and self-hosted admin control console, featuring an AI chatbot assistant and custom interactive animations.
+A decoupled MERN monorepo — a live developer portfolio with a custom admin console, AI chatbot, and dynamic project management. This is the exact system powering [amansah.com.np](https://amansah.com.np).
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | React.js 18 · Node.js · Express.js · MongoDB · Cloudinary · Nodemailer · Gemini AI · Framer Motion · Tailwind CSS |
-| **Architecture** | Decoupled MERN monorepo · MVC backend · JWT-protected admin dashboard |
-| **AI Layer** | Gemini AI-powered ARIA chatbot assistant with contextual response logic |
-| **Animations** | Custom HTML5 Canvas particle systems · Framer Motion · Lenis smooth scrolling |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | React.js 18, Node.js, Express.js, MongoDB, Cloudinary, Nodemailer, Gemini AI, Framer Motion, Tailwind CSS |
+| **Architecture** | MVC backend, decoupled monorepo, stateless Cloudinary uploads via Multer buffer piping |
+| **UX** | HTML5 Canvas particle systems, Framer Motion page transitions, Lenis smooth scrolling |
+| **AI** | Gemini AI-powered ARIA chatbot assistant with contextual responses |
+| **Notifications** | Nodemailer SMTP: auto-dispatches contact alerts to owner + personalised replies to visitors |
 | **Repository** | [github.com/SAman-9814/MERN-STACK-Portfolio](https://github.com/SAman-9814/MERN-STACK-Portfolio) |
 | **Live** | [amansah.com.np](https://amansah.com.np) |
 
+The admin console provides full project CRUD protected by JWT, enabling content management without redeployment. Stateless design ensures horizontal scalability from day one.
+
 </details>
 
 ---
 
 <details>
-<summary><strong>SecureAuth — Role-Based Access Control Portal</strong></summary>
+<summary><strong>🔐 SecureAuth — Role-Based Access Control Portal</strong></summary>
+
 <br/>
 
-A production-grade RBAC authentication portal with three fully isolated user role dashboards and hardened JWT session handling.
+A production-grade RBAC authentication system demonstrating enterprise security patterns: HTTPOnly cookie auth, three-tier role isolation, and middleware-enforced route guards.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | React.js · Node.js · Express.js · MongoDB · JWT · HTTPOnly Cookies · Tailwind CSS v4 |
-| **Auth** | Stateless JWT in HTTPOnly Secure cookies · XSS-resistant token storage |
-| **CORS** | Credential-based CORS for safe cross-origin session propagation |
-| **Roles** | Visitor · Student · Admin — fully isolated protected dashboards |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, HTTPOnly Cookies, Tailwind CSS v4 |
+| **Roles** | Visitor, Student, Admin — fully isolated protected dashboards per role |
+| **Security** | Stateless JWT in HTTPOnly Secure cookies — XSS-proof token storage |
+| **CORS** | Credential-based CORS enforcement for safe cross-origin session propagation |
+| **Middleware** | Express.js role guard layer: verifies JWT claims before route execution |
 | **Repository** | [github.com/SAman-9814/MERN-STACK-SECUREAUTH-APP](https://github.com/SAman-9814/MERN-STACK-SECUREAUTH-APP) |
 | **Live** | [client-gamma-one-96.vercel.app](https://client-gamma-one-96.vercel.app/) |
 
+React Auth Context manages client-side route guards and redirect flows, ensuring unauthorized navigation is intercepted before API calls are ever made. Built as a reusable auth foundation for future MERN projects.
+
 </details>
 
 ---
 
 <details>
-<summary><strong>CloudVibe — Media Asset Manager and File Uploader</strong></summary>
+<summary><strong>☁️ CloudVibe — Media Asset Manager & File Uploader</strong></summary>
+
 <br/>
 
-A full-stack media asset management platform with multi-format upload support, automatic compression, and MongoDB-tracked file records.
+A full-stack media management platform supporting multi-type file uploads to Cloudinary with strict validation, automatic compression, and MongoDB-backed file records.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | React.js · Node.js · Express.js · MongoDB · Cloudinary · Nodemailer · Tailwind CSS v4 |
-| **Uploads** | Image · Video · Compressed Image — all routed directly to Cloudinary |
-| **Compression** | Automatic 50% quality compression on image uploads to reduce delivery bandwidth |
-| **Validation** | Strict file-type guards (JPG / PNG / MP4 / MOV) and 5MB upload size limits |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | React.js, Node.js, Express.js, MongoDB, Cloudinary, Nodemailer, Tailwind CSS v4 |
+| **Uploads** | Image (JPG/PNG), Video (MP4/MOV), compressed image — all routed to Cloudinary |
+| **Performance** | Automatic 50% quality compression on image uploads to reduce delivery bandwidth |
+| **Validation** | Strict file-type guards (JPG/PNG/MP4/MOV) with 5MB size limit on all routes |
+| **Tracking** | MongoDB Atlas records all file metadata for retrieval and management |
 | **Repository** | [github.com/SAman-9814/MERN-STACK-CLOUDVIBE-APP](https://github.com/SAman-9814/MERN-STACK-CLOUDVIBE-APP) |
 | **Live** | [mern-stack-cloudvibe-app-z9ck.vercel.app](https://mern-stack-cloudvibe-app-z9ck.vercel.app/) |
 
+Designed around a stateless upload architecture — the Node.js server acts purely as a routing layer, piping files via Multer buffers to Cloudinary without touching disk. Keeps infrastructure lean and cloud-native.
+
 </details>
 
 ---
 
 <details>
-<summary><strong>AI Agent — Doctor Appointment Booking System</strong></summary>
+<summary><strong>🤖 AI Agent — Doctor Appointment Booking System</strong></summary>
+
 <br/>
 
-A production-deployed conversational AI agent on WhatsApp automating the full doctor appointment booking lifecycle.
+A production-deployed conversational AI agent on WhatsApp that automates the full doctor appointment lifecycle — from inquiry and slot checking to booking confirmation and automated reminders.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | n8n · WhatsApp Business API · OpenAI LLM · Workflow Automation |
-| **Coverage** | Natural language intake · slot availability · booking confirmation · automated reminders |
-| **Availability** | 24/7 autonomous operation with zero human intervention required |
-| **Efficiency** | ~70% reduction in manual appointment scheduling effort |
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | n8n, WhatsApp Business API, OpenAI LLM, Workflow Automation |
+| **Capability** | Handles NLP queries, real-time slot availability, confirmations, and follow-up reminders |
+| **Impact** | ~70% reduction in manual appointment scheduling effort |
+| **Availability** | 24/7 patient query processing — zero human intervention required |
+| **Architecture** | Multi-step n8n workflow: intent detection → slot lookup → booking → reminder dispatch |
+
+Designed as an end-to-end automation pipeline — patients interact via natural language on WhatsApp; the agent resolves intent, checks availability, books the appointment, and fires a confirmation, all without human-in-the-loop. A direct demonstration of agentic AI in a high-impact real-world context.
 
 </details>
 
@@ -233,36 +201,22 @@ A production-deployed conversational AI agent on WhatsApp automating the full do
 
 ## Experience
 
-<table>
-<tr>
-<td width="55%">
+### Full Stack Developer — SolutionPath Technology Pvt. Ltd.
+`Jan 2025 – Present` · Kathmandu, Nepal
 
-### Full Stack Developer
-**SolutionPath Technology Pvt. Ltd.** · Kathmandu, Nepal
-`Jan 2025 – Present`
+Embedded in a cross-functional Agile team of 5, delivering full-stack features across sprint cycles with structured code review, clean Git workflows, and consistent PR hygiene. Core focus has been the company's flagship multi-vendor e-commerce platform — a complex PERN/Next.js system with real-time analytics, multi-vendor management, and LLM-powered product intelligence.
 
-Embedded in a 5-person Agile engineering team, contributing to sprint planning, stand-ups, and peer code reviews. Responsible for enforcing coding standards and maintaining clean PR histories.
+- Architected and delivered a multi-vendor e-commerce platform: independent vendor dashboards, product listings, and order management pipelines — built on Next.js and the PERN stack.
+- Integrated AI-powered product recommendations via LLM APIs, achieving ~35% increase in simulated user engagement during internal testing.
+- Built a real-time vendor analytics dashboard with dynamic chart visualizations tracking sales volume, inventory status, and order fulfillment.
+- Conducted structured peer code reviews and managed Git feature-branch workflows with clean, reviewable PR histories.
 
-- Architected and delivered a multi-vendor e-commerce platform with Next.js and PERN stack
-- Integrated LLM-based product recommendation APIs into the platform discovery layer
-- Built real-time vendor analytics dashboards with dynamic data visualizations
-- Led code reviews and maintained clean Git workflows across team sprints
-
-</td>
-<td width="45%" align="center" valign="top"><br/><br/>
-
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=next.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/LLM%20Integration-7C3AED?style=flat-square&amp;logo=openai&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Agile%20Scrum-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Git%20Workflows-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
-
-</td>
-</tr>
-</table>
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
@@ -272,12 +226,24 @@ Embedded in a 5-person Agile engineering team, contributing to sprint planning, 
 
 | Recognition | Details |
 |-------------|---------|
-| **5+ Production Projects Shipped** | End-to-end delivery of EdTech, RBAC, Media, AI Agent, and Portfolio platforms |
-| **AI Automation Impact** | ~70% reduction in manual scheduling via WhatsApp AI booking agent |
-| **LLM Engagement Uplift** | ~35% simulated increase in user engagement from AI-powered recommendations |
-| **CGPA 8.0 / 10.0** | B.Tech Computer Science Engineering · Jain University · Graduated Nov 2025 |
-| **Live Portfolio** | Production-deployed full-stack portfolio with AI chatbot at amansah.com.np |
-| **24/7 AI Agent** | Autonomous appointment booking agent with zero human intervention |
+| **5+ Production Projects Shipped** | End-to-end: conception, engineering, deployment — all independently |
+| **Live Portfolio at amansah.com.np** | MERN-stack portfolio powering its own project management via admin console |
+| **AI Agent in Production** | WhatsApp booking agent with ~70% reduction in manual scheduling effort |
+| **LLM Feature at SolutionPath** | AI recommendations driving ~35% simulated engagement uplift in testing |
+| **B.Tech CSE — 8.0 CGPA** | Jain University, Bangalore · Graduated November 2025 |
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 </div>
 
@@ -285,95 +251,100 @@ Embedded in a 5-person Agile engineering team, contributing to sprint planning, 
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAman-9814&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=A78BFA&amp;icon_color=7C3AED&amp;text_color=C4B5FD&amp;ring_color=6D28D9&amp;include_all_commits=true&amp;count_private=true" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAman-9814&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;bg_color=0D0D1A&amp;title_color=A78BFA&amp;text_color=C4B5FD&amp;langs_count=8" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SAman-9814&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0D0D1A&amp;stroke=7C3AED&amp;ring=A78BFA&amp;fire=6D28D9&amp;currStreakLabel=A78BFA&amp;sideLabels=C4B5FD&amp;dates=8B5CF6&amp;currStreakNum=DDD6FE&amp;sideNums=DDD6FE" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAman-9814&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAman-9814&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&text_color=E2E8F0"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SAman-9814&theme=tokyonight&background=0D0D1A&border=7C3AED&ring=A78BFA&fire=6D28D9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAman-9814&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" />
-</p>
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SAman-9814&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAman-9814&amp;theme=react-dark&amp;bg_color=0D0D1A&amp;color=A78BFA&amp;line=7C3AED&amp;point=DDD6FE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true" width="100%"/>
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAman-9814&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=6D28D9&area=true&area_color=4C1D95&hide_border=false&border_color=7C3AED&title_color=A78BFA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAman-9814/SAman-9814/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAman-9814/SAman-9814/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SAman-9814/SAman-9814/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAman-9814/SAman-9814/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAman-9814/SAman-9814/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SAman-9814/SAman-9814/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
 ## Current Focus
 
 ```yaml
-learning:
-  - Advanced system design and distributed architecture patterns
-  - LangChain and agentic AI workflow orchestration
-  - TypeScript at scale with strict mode and advanced generics
+currently:
+  learning:
+    - Advanced system design patterns for distributed PERN applications
+    - LangChain and LlamaIndex for production RAG pipelines
+    - Redis caching strategies and queue-based job processing
 
-building:
-  - Multi-vendor e-commerce platform at SolutionPath Technology
-  - AI-integrated personal projects using OpenAI and Gemini APIs
+  building:
+    - Expanding SolutionPath's multi-vendor platform with new AI features
+    - StudyNotion: a full-featured MERN EdTech platform
+    - New AI agent automation experiments with n8n + OpenAI
 
-exploring:
-  - Vector databases and RAG pipelines
-  - Edge runtime deployments with Next.js and Vercel
-  - Real-time systems with WebSockets and Redis pub/sub
+  exploring:
+    - Edge deployment with Vercel/Cloudflare Workers
+    - TypeScript strict-mode patterns across full-stack codebases
+    - Vector databases (Pinecone, pgvector) for semantic search
 
-open_to:
-  - Full stack engineering roles (remote or hybrid)
-  - AI product engineering and LLM integration projects
-  - Open source collaboration on developer tools
+  open_to:
+    - Full Stack Engineer roles (remote-first preferred)
+    - AI / Automation Engineer opportunities
+    - Freelance contracts: web apps, AI integrations, n8n workflows
+    - Open source collaborations on developer tooling
 ```
 
 ---
 
 ## Connect
 
-<p align="center">
-  <a href="mailto:sah99017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/aman-sah9814" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SAman-9814" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://amansah.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-sah99017%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sah99017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--sah9814-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sah9814)
+[![GitHub](https://img.shields.io/badge/GitHub-SAman--9814-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAman-9814)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amansah.com.np-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://amansah.com.np)
+
+</div>
 
 ---
 
-<p align="center">
-  <em>"Ship fast, architect carefully, iterate ruthlessly — software is never finished, only deployed."</em>
-</p>
+<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,19,24,25,30&amp;height=120&amp;section=footer&amp;animation=fadeIn)
+*Good software is not written — it is engineered, iterated, and shipped with intent.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
