@@ -37,9 +37,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAman-9814&amp;style=flat-square&amp;color=7C3AED&amp;label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/SAman-9814?style=flat-square&amp;color=6D28D9&amp;label=Followers&amp;logo=github" />
+  <a href="https://github.com/SAman-9814?tab=followers" target="_blank"><img src="https://img.shields.io/badge/Followers-Follow-6D28D9?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/SAman-9814?style=flat-square&amp;color=5B21B6&amp;label=Stars&amp;logo=github" />
+  <a href="https://github.com/SAman-9814?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Stars-View%20Repos-5B21B6?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
 ---
@@ -292,7 +292,7 @@ Embedded in a 5-person Agile engineering team, contributing to sprint planning, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAman-9814&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0D0D1A&amp;stroke=7C3AED&amp;ring=A78BFA&amp;fire=6D28D9&amp;currStreakLabel=A78BFA&amp;sideLabels=C4B5FD&amp;dates=8B5CF6&amp;currStreakNum=DDD6FE&amp;sideNums=DDD6FE" />
+  <img src="https://streak-stats.demolab.com/?user=SAman-9814&amp;theme=midnight-purple&amp;hide_border=true&amp;background=0D0D1A&amp;stroke=7C3AED&amp;ring=A78BFA&amp;fire=6D28D9&amp;currStreakLabel=A78BFA&amp;sideLabels=C4B5FD&amp;dates=8B5CF6&amp;currStreakNum=DDD6FE&amp;sideNums=DDD6FE" />
 </p>
 
 ---
